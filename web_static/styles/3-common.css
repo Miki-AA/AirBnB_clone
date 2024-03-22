@@ -1,0 +1,30 @@
+body{
+      margin: 0; 
+      padding: 0;
+      color: #484848;
+      font-size: 14px;
+      font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+div{
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      height: 100%;
+    }
+    span{
+      color: black; 
+
+    }
+
+.logo{
+  margin-left: 20px;
+  background-image:url("/images/logo.png");
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+/* .picture{
+  
+} */
+
+    

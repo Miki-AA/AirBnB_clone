@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>AirBnB clone</title>
+
+  <link rel="stylesheet" href="styles/2-common.css">
+  <link rel="stylesheet" href="styles/2-footer.css">
+  <link rel="stylesheet" href="styles/2-header.css">
+  <link rel="icon" href="/images/icon.png">
+    
+</head>
+
+<body>
+  <header >
+    <dir class="logo"></dir>
+    <!-- <img class="logo" src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png"> -->
+    
+  </header>
+
+  <main>
+  
+  </main>
+
+  <footer>
+    <div>
+      <span>Best School</span>
+    </div>
+  </footer>
+</body>
+
+</html>
+
